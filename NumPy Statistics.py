@@ -3,7 +3,7 @@ import numpy as np
 #1.Generate 100 random numbers between 1 and 100
 
 data = np.random.randint(1,101,100)
-#here 100 is tot
+#here 100 is total numbers
 
 print("Random Numbers\n", data)
 
@@ -34,3 +34,4 @@ print("Mean:", mean_value)
 print("Median:", median_value)
 print("Standard Deviation:", std_value)
 print("Variance:", variance_value)
+
